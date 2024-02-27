@@ -11,15 +11,13 @@ If the agent unable to complete the given task,then there is no promotion to oth
 
 ### State Space
 {L1,L2,L3}--->{0,1,2}
-L1--->level 1
-L2--->level 2
-L3--->level 3
 
 ### Sample State
-L1--->0--->level 1
+L1--->{0}
 
 ### Action Space
 Moving right(1)
+
 Stay in the same level(0)
 
 ### Sample Action
