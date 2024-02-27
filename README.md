@@ -27,6 +27,7 @@ Stay in the same level(0)
 +1(When it reaches the goal state or final level)
 
 ### Graphical Representation
+![gr](https://github.com/ManojTella/mdp-representation/assets/94883876/998eaaa2-24c3-443a-a52a-f69e2ae64133)
 
 
 ## PYTHON REPRESENTATION:
